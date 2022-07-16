@@ -1,4 +1,4 @@
-### Hi there I am German but I am told Gercho 👋
+### Hi there I'm German but I am told Gercho 👋
 
 <!--
 **GLecherbauer/GLecherbauer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
